@@ -7,7 +7,7 @@
 
 ## **Languages**
 
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&labelColor=EEEEEE&logo=c&logoColor=A8B9CC"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&labelColor=EEEEEE&logo=cplusplus&logoColor=00599C"/> <img src="https://img.shields.io/badge/Csharp-239120?style=flat-square&labelColor=EEEEEE&logo=csharp&logoColor=239120"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&labelColor=EEEEEE&logo=python&logoColor=3776AB"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&labelColor=EEEEEE&logo=c&logoColor=A8B9CC"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&labelColor=EEEEEE&logo=cplusplus&logoColor=00599C"/> <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&labelColor=EEEEEE&logo=csharp&logoColor=239120"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&labelColor=EEEEEE&logo=python&logoColor=3776AB"/>
 
 ## **DB**
 
