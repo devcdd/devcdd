@@ -15,5 +15,7 @@
 
 ## **WEB**
 
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&labelColor=EEEEEE&logo=HTML5"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&labelColor=EEEEEE&logo=CSS3&logoColor=1572B6"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&labelColor=EEEEEE&logo=JavaScript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&labelColor=EEEEEE&logo=TypeScript&logoColor=3178C6"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&labelColor=EEEEEE&logo=node.js&logoColor=339933"/> <img src="https://img.shields.io/badge/Express.js-339933?style=flat-square&labelColor=EEEEEE&logo=Express&logoColor=000000"/>
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&labelColor=EEEEEE&logo=HTML5"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&labelColor=EEEEEE&logo=CSS3&logoColor=1572B6"/>
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&labelColor=EEEEEE&logo=JavaScript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&labelColor=EEEEEE&logo=TypeScript&logoColor=3178C6"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&labelColor=EEEEEE&logo=node.js&logoColor=339933"/> <img src="https://img.shields.io/badge/Express.js-339933?style=flat-square&labelColor=EEEEEE&logo=Express&logoColor=000000"/>
 
