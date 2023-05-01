@@ -21,4 +21,4 @@
 
 ## **LIB**
 
-<img src="https://img.shields.io/badge/ReactJS-61DAFB?style=flat-square&labelColor=EEEEEE&logo=React&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&labelColor=EEEEEE&logo=Selenium&logoColor=43B02A"/> 
+<img src="https://img.shields.io/badge/ReactJS-61DAFB?style=flat-square&labelColor=EEEEEE&logo=React&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&labelColor=EEEEEE&logo=Selenium&logoColor=43B02A"/>
