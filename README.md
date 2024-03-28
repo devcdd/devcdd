@@ -1,4 +1,4 @@
-![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=97c6f7&text=Hello,%20I%20am%20CDD&height=150&fontSize=80&desc=Frontend%20Developer&descAlignY=&descAlign=60)
+![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=97c6f7&text=Hello,%20I%20am%20CDD&height=150&fontSize=80&desc=Frontend%20Developer&descAlignY=80&descAlign=60)
 
 <div align="center">
 
